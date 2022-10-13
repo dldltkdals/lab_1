@@ -7,8 +7,8 @@
 
 ## 프로젝트 목표
 > 아래의 사진과 같이 흑백사진을 컬러로 복원하는 모델을 만드는 것이 목표
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codingworldnews.com%2Fnews%2FarticleView.html%3Fidxno%3D3406&psig=AOvVaw1CJgmtKSeigBQpHX0Z-kBO&ust=1665752049916000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKji_Iug3foCFQAAAAAdAAAAABAE)
-
+![image](https://user-images.githubusercontent.com/103127088/195602259-f5919031-146a-4406-99b5-7ab5bdbc82c8.png)
+<img src="[http://....jp](https://user-images.githubusercontent.com/103127088/195602259-f5919031-146a-4406-99b5-7ab5bdbc82c8.png)g" width="400" />
  
  **참고 자료**
 > 프로젝트 구상할때 참고한 논문입니다 [논문](https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO201817840890505&oCn=JAKO201817840890505&dbt=JAKO&journal=NJOU00303049)
